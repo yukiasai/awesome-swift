@@ -1304,6 +1304,7 @@ Please take a quick look at the [contribution guidelines](.github/CONTRIBUTING.m
 * [EZSwiftExtensions](https://github.com/goktugyil/EZSwiftExtensions) - :smirk: How Swift standard types and classes were supposed to work.
 * [Focus](https://github.com/typelift/Focus) - an Optics library for Swift (where Optics includes Lens, Prisms, and Isos) that is inspired by Haskell's Lens library.
 * [Hookah](https://github.com/HookahSwift/Hookah) - Hookah is a functional library for Swift.
+* [Nori](https://github.com/yukiasai/Nori) - Easier to apply code based style guide to storyboard. 
 * [ObjectiveKit](https://github.com/marmelroy/ObjectiveKit) - Swift-friendly API for Objective C runtime functions.
 * [OpenSourceController](https://github.com/terflogag/OpenSourceController) - The simplest way to display the librarie's licences used in your application.
 * [Popsicle](https://github.com/DavdRoman/Popsicle) - Delightful, extensible Swift value interpolation framework.
